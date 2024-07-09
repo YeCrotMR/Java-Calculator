@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="labtoray:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/labtoray_jar</output-path>
+    <root id="root">
+      <element id="archive" name="labtoray.jar">
+        <element id="module-output" name="labtoray" />
+      </element>
+    </root>
+  </artifact>
+</component>
